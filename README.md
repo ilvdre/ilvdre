@@ -1,25 +1,23 @@
-Markdown
 #  Olá, mundo!
 
 ## Sobre mim
-Sou um(a) **hacker** apaixonado por [sua área de interesse]. Gosto de explorar novas tecnologias e criar soluções inovadoras.
+Sou um(a) **homelaber** apaixonado por informatica e bobotização. Gosto de explorar novas tecnologias e criar soluções inovadoras.
 
 ## Habilidades
-* **Linguagens:** Python, JavaScript, C++
+* **Linguagens:** Python, Arduino
 * **Ferramentas:** Git, Docker, Kubernetes
 * **Outros:** Hacking ético, segurança da informação
 
 ## Projetos
-* **[Nome do Projeto 1]:** [Descrição breve]
-* **[Nome do Projeto 2]:** [Descrição breve]
+* **Em Breve...** 
+* **Em Breve...** 
 
 ## Contato
-* **Email:** seu_email@example.com
-* **LinkedIn:** https://www.linkedin.com/in/seu-perfil
-* **Twitter:** https://twitter.com/seu_perfil
+* **Email:** ilvdre05@.com
+* **LinkedIn:** https://www.linkedin.com/in/andré-oliveira-costa-440913322/
+* **Instagram:** https://instagram.com/ilvdre
 
 ## Badges
 [Insira seus badges aqui]
 
-## Tecnologias
-[Insira suas tecnologias como imagens ou texto]
+
