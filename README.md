@@ -11,7 +11,7 @@ Sou um(a) **homelaber** apaixonado por informatica e bobotização. Gosto de exp
 * **Em Breve...** 
 
 ## Contato
-* **Email:** ilvdre05@.com
+* **Email:** ilvdre05@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/andré-oliveira-costa-440913322/
 * **Instagram:** https://instagram.com/ilvdre
 
