@@ -18,6 +18,6 @@ Sou um(a) **homelaber** apaixonado por informatica e bobotização. Gosto de exp
 * **Instagram:** https://instagram.com/ilvdre
 
 ## Badges
-[Insira seus badges aqui]
+[![GitHub followers](https://img.shields.io/github/followers/ilvdre?style=flat-square)](https://github.com/ilvdre?tab=followers)
 
 
