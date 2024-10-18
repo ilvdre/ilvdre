@@ -1,7 +1,7 @@
 #  Olá, mundo!
 
 ## Sobre mim
-Sou um(a) **homelaber** apaixonado por informatica e bobotização. Gosto de explorar novas tecnologias e criar soluções inovadoras.
+Sou um(a) **homelaber** apaixonado por informatica e robotização. Gosto de explorar novas tecnologias e criar soluções inovadoras.
 
 ## Habilidades
 * **Linguagens:** Python, Arduino
