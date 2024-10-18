@@ -1,4 +1,4 @@
-#  Olá, mundo!
+#  Hello, world!
 
 ## Sobre mim
 Sou um(a) **homelaber** apaixonado por informatica e robotização. Gosto de explorar novas tecnologias e criar soluções inovadoras.
