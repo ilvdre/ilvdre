@@ -4,7 +4,7 @@
 Sou um(a) **homelaber** apaixonado por informatica e robotização. Gosto de explorar novas tecnologias e criar soluções inovadoras.
 
 ## Habilidades
-* **Linguagens:** Processo de aprender alguma :)
+* **Linguagens:** Python
 
 ## Projetos
 * **Em Breve...** 
